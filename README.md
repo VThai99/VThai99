@@ -1,5 +1,3 @@
-
-
 ## I code with
 
 <a href="https://www.typescriptlang.org" target="_blank">
