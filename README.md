@@ -1,3 +1,11 @@
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+
+<p> My name is Thai and I'm a javascript developer, from <img src="https://static-00.iconduck.com/assets.00/viet-nam-icon-512x366-gxon1wdq.png" width="17" /> <b>VietNam</b>. </p>
+
+## About me
+
+- 🎲 And ... i play 🎸 guitar and ♟ chess online
+
 ## I code with
 
 <a href="https://www.typescriptlang.org" target="_blank">
@@ -24,23 +32,9 @@
   <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="./assets/golang-logo.svg" />
 </a>
 
-<a href="https://graphql.org" target="_blank">
-  <img align="left" title="GraphQL" alt="GraphQL" width="40px" src="./assets/graphql-logo.svg" />
-</a>
 
 <a href="https://jestjs.io/pt-BR/" target="_blank">
   <img align="left" title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.svg" />
 </a>
 
-<a href="https://www.cypress.io" target="_blank">
-  <img align="left" title="Cypress" alt="Jest" width="40px" src="./assets/cypress-logo.svg" />
-</a>
 
-<a href="https://storybook.js.org" target="_blank">
-  <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
-</a>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VThai99&theme=github_dark)
-	<div>
-		![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VThai99&theme=github_dark)
-		![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VThai99&theme=github_dark)
-	</div>
