@@ -1,6 +1,6 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<p> My name is Thai and I'm a javascript developer, from <img src="https://static-00.iconduck.com/assets.00/viet-nam-icon-512x366-gxon1wdq.png" width="17" /> <b>VietNam</b>. </p>
+<p> My name is Thai and I'm a javascript developer, from <img src="[https://static-00.iconduck.com/assets.00/viet-nam-icon-512x366-gxon1wdq.png](https://cdn.countryflags.com/thumbs/vietnam/flag-400.png)" width="17" /> <b>VietNam</b>. </p>
 
 ## About me
 
@@ -44,5 +44,6 @@
 <a href="https://jestjs.io/pt-BR/" target="_blank">
   <img align="left" title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.svg" />
 </a>
+
 
 
